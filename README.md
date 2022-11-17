@@ -7,3 +7,4 @@ Class:
 - [Satpam.java](https://github.com/Praktikum-PBO-S1SI-05-A/ProjectAsuransi/blob/main/src/main/java/praktikum/pbo/projectasuransi/Satpam.java)
 - [Sales.java](https://github.com/Praktikum-PBO-S1SI-05-A/ProjectAsuransi/blob/main/src/main/java/praktikum/pbo/projectasuransi/Sales.java)
 - [Manajer.java](https://github.com/Praktikum-PBO-S1SI-05-A/ProjectAsuransi/blob/main/src/main/java/praktikum/pbo/projectasuransi/Manajer.java)
+ 
